@@ -1,6 +1,6 @@
 # Cache Demo with Rails
 
-Companion project for a blog post about caching with Rails.
+Companion project for a [blog post](https://danielabaron.me/blog/rails-cache-elegance/) about caching with Rails.
 
 Setup:
 
